@@ -3,7 +3,7 @@
 Who am I ?
 # Sébastien
 
-**Quality Assurance Manager ISO/IEC 17025 → Data Analyst**
+**Quality Assurance Manager ISO/IEC 17025 → Data Analyst** 
 Montréal, Québec, Canada · Ouvert aux opportunités
 
 ---
@@ -11,6 +11,7 @@ Montréal, Québec, Canada · Ouvert aux opportunités
 ## À propos
 
 Manager Qualité dans un laboratoire accrédité ISO/IEC 17025 d'essais mécaniques (industrie métallurgique), je développe des solutions métier en autodidacte depuis plus de 5 ans — en parallèle de mon poste.
+
 Mes projets ne sont pas des exercices sur des données fictives. Ils résolvent de vrais problèmes opérationnels : isoler les processus reproductibles, automatiser des flux de travail, sécuriser et structurer la collecte de données, gérer des systèmes qualité. C'est cette façon d'allier la rigueur de l'expérience Qualité et la souplesse du développement — innovation, prototypage rapide, autonomie, mais aussi sécurité, documentation par la preuve, orientation processus et résolution de problème — qui me permet d'apporter un différenciateur rare à un rôle en data analytics ou BI.
 
 ---
