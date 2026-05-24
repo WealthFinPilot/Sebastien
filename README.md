@@ -6,14 +6,23 @@ Who am I ?
 **Quality Assurance Manager ISO/IEC 17025 → Data Analyst** 
 Montréal, Québec, Canada · Ouvert aux opportunités
 
+---
+
+## Stack
+
 [![ISO/IEC 17025](https://img.shields.io/badge/ISO%2FIEC-17025-0A66C2)](#)
-[![Stack](https://img.shields.io/badge/stack-Excel%20%2F%20VBA%20%2F%20SQL-blue)](#)
-[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](#)
+[![VBA](https://img.shields.io/badge/VBA-217346?logo=microsoft&logoColor=white)](#)
+[![Power Query](https://img.shields.io/badge/Power%20Query-217346?logo=microsoft&logoColor=white)](#)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)](#)
+[![DAX](https://img.shields.io/badge/DAX-F2C811?logo=powerbi&logoColor=black)](#)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
-[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
-[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
+[![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?logo=anthropic&logoColor=white)](#)
+[![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)](#)
 [![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)](#)
 [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](#)
@@ -33,23 +42,8 @@ Mes projets ne sont pas des exercices sur des données fictives. Ils résolvent 
 | Projet | Description | Stack |
 |---|---|---|
 | [WealthFinPilot](https://github.com/WealthFinPilot/WealthFinPilot) | Outil de finance personnelle complet — budget, suivi, objectifs, automatisation | Excel · VBA |
-| [notion-qms-platform](https://github.com/WealthFinPilot/notion-qms-platform/blob/main/README.md) | Quality Management System structuré sous Notion, fonctionnant comme un intranet pour laboratoire d'essais accrédité ISO/IEC 17025| Notion · n8n |
+| [notion-qms-platform](https://github.com/WealthFinPilot/notion-qms-platform/blob/main/README.md) | Plateforme fonctionnelle de Gestion de Système Qualité structurée sous Notion et optimisée avec n8n, pour laboratoire d'essais accrédité ISO/IEC 17025| Notion · n8n |
 | [excel-business-tools](https://github.com/Sebastien/excel-business-tools) | Solutions métier développées en contexte réel | Excel · VBA · Power Query |
-
----
-
-## Stack
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-217346?style=flat-square&logo=microsoft&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
